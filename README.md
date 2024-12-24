@@ -1,1 +1,1 @@
-Hostel Management System
+Hospital Management System
